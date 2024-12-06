@@ -1,5 +1,45 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
 *.pyc
+
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+
+# ML specific
 data/
+MNIST/
+models/
 *.pth
-.pytest_cache/ 
+wandb/
+logs/
+checkpoints/
+
+# Temp files
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+.directory
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/ 
