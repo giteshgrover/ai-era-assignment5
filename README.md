@@ -6,7 +6,7 @@ This repository contains a simple MNIST classifier built using PyTorch. The mode
 This project contains a CI/CD pipeline that trains the model, runs tests, and archives the model artifacts.
 
 ## How to run locally
-To run this locally, clone the repository and do teh following:
+To run this locally, clone the repository and do the following:
 
 1. Set up your environment:
 ```
